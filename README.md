@@ -20,7 +20,7 @@
 ### The total cost of the project was about 7000 INR excluding the cost of 3D printing.
 ---
 ## 7 Application 
-### for entertainment purposes 
+### For entertainment purposes 
 ---
 ## 8. Limitations
 ### The pneumatic actuator gives a huge amount of force with can lead to fatigue failure over a period of time. So the flippers had to be controlled manually.
