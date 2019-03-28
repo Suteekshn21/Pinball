@@ -19,19 +19,22 @@
 ## 6. Cost Structure
 ### The total cost of the project was about 7000 INR excluding the cost of 3D printing.
 ---
-## 7. Limitations
+## 7 Application 
+### for entertainment purposes 
+---
+## 8. Limitations
 ### The pneumatic actuator gives a huge amount of force with can lead to fatigue failure over a period of time. So the flippers had to be controlled manually.
 ---
-## 8. Future Improvements
+## 9. Future Improvements
 ### A lot of improvements can be made in scoring part of the game so that it becomes more challenging and fun to play.
 ---
-## 9. Team members
+## 10. Team members
 ### - Bhaskar Garg
 ### - SDL Malavika
 ### - Shashi Muchkund
 ### - Shridhar Bagal
 ### - Suteekshn Mahajan
 ---
-## 10 . Mentors 
+## 11 . Mentors 
 ### - Aayush Singh Chauhan
 ### - Pranjal Mishra
