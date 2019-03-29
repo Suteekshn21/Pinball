@@ -20,11 +20,11 @@
 ##  Future Improvements
  A lot of improvements can be made in scoring part of the game so that it becomes more challenging and fun to play.
 ##  Team members
-- Bhaskar Garg
-- SDL Malavika
-- Shashi Muchkund
-- Shridhar Bagal
-- Suteekshn Mahajan
+1 Bhaskar Garg
+2 SDL Malavika
+3 Shashi Muchkund
+4 Shridhar Bagal
+6 Suteekshn Mahajan
 ##  Mentors 
-- Aayush Singh Chauhan
-- Pranjal Mishra
+1 Aayush Singh Chauhan
+2 Pranjal Mishra
