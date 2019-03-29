@@ -1,5 +1,4 @@
 # Pinball
-##  Images of the project
 ![pinball](https://github.com/ShridharBagal/Pinball/blob/master/repo/Images%20and%20videos/Images/pinball.jpeg.jpg)
 ---
 ##  Abstract 
