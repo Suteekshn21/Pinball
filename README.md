@@ -13,7 +13,7 @@
 ##  Electronics Aspect of the Design
  The DC motors used in the deflectors are directly connected to the DC source so that they can rotate all the time .The linear actuator is given a up and down motion using a two relay ciruit .NO pins of both relays is shorted and connected to ground terminal and the NC pins are connected to positive terminal in a similar manner. The main pin of relays is connected to the linear actuator .The coil pins are connected to a ULN2003N chip which helps to energize the coil with 12V by taking a 5V signal from a arduino  MEGA microcontroller.The aluminium foil on the bumper is connected to input pin on a arduino MEGA board and the foil pasted below the bumper is connected to the ground .When the steel ball hits the bumper the circuit gets completed and a signal is received by the arduino .Using this signal we can make the linear actuator retract downwards in such a way that the ball is propelled away from the bumper .The score is calculated by counting the number of hits on the bumper. 
 ##  Cost Structure
- The total cost of the project was about 7000 INR excluding the cost of 3D printing.
+ The total cost of the project was 6600 INR excluding the cost of 3D printing.
  
  |  Expense       | Cost    | 
  | -------------- |:-------:|
