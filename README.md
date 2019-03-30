@@ -22,6 +22,7 @@
  The total cost of the project was 6600 INR excluding the cost of 3D printing.
  
  |  Expenses       | Cost(INR)   | 
+ |-----------------|-------------|
  | Electronics    |  1600   |
  | Mechanical     |  3200   |
  | Aesthetics     |  1800   |
