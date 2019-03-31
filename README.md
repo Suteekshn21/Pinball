@@ -43,3 +43,7 @@ The scoring part of the game can be made more comprehensive by adding a number o
 1. Aayush Singh Chauhan
 2. Pranjal Mishra
 ![pinballteam](https://github.com/ShridharBagal/Pinball/blob/master/Images%20and%20videos/Images/pinballWithTeam.jpg)
+## References
+[https://electronics.howstuffworks.com/pinball-machine1.htm]
+[https://www.youtube.com/watch?v=aJlaDzZKKGY]
+[https://forum.arduino.cc/index.php?topic=492142.0]
